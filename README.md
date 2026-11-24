@@ -11,18 +11,18 @@ Monday 23 November 2026 to `/output/entry.png`.
 allow) is a newspaper front page for the day. It names the date in the
 masthead and covers six stories, each with its own panel and label:
 
-1. **COP31 climate talks collapse** — the UN climate summit in Turkey
-   ends with no deal, the longest COP ever.
-2. **Iran hits a U.S. base** — Iranian missiles and drones strike
-   U.S. military positions in Bahrain; a civilian facility is hit.
-3. **Ukraine sinks a warship** — Ukrainian naval drones sink a Russian
-   warship off the Libyan coast.
-4. **Democrats win the House** — the biggest U.S. House majority
-   in decades.
-5. **Cartel chief captured** — Mexico captures Sinaloa cartel leader
-   "Chapo Isidro".
-6. **Gaza aid truck hit** — an Israeli strike hits a truck in Gaza,
-   killing three people.
+1. **Ukraine sinks a warship** — Zelenskyy confirms Ukrainian naval
+   drones sank the Russian corvette Merkury off the Libyan coast.
+2. **Iran vows to fight blockade** — Iran says it will use all its
+   tools to confront the U.S. naval blockade.
+3. **Democrats pledge climate return** — a House Democratic delegation
+   at COP31 pledges to restore U.S. climate engagement.
+4. **Thanksgiving storm looms** — the National Weather Service warns
+   of a powerful coastal storm for Thanksgiving travel on the East Coast.
+5. **Indonesia confirms 24 dead** — Indonesia confirms 24 deaths in
+   the weekend candy factory fire, with dozens still missing.
+6. **Pig kidney marks one year** — the first patient passes one year
+   living with a genetically engineered pig kidney.
 
 The image is drawn once and held in the repository as `entry.png.b64`
 (the same bytes, base64-encoded so the file is plain text); the program
